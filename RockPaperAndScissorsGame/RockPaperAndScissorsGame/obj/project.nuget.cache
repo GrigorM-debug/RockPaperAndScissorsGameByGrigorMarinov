@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "d7RUXdPUrHxUPGBBO71LrpLzSmKU+99JFwhGwflQSRK3NLb+y1D8EX35MqSooj4LQjZ//k531QUXQkB0JsnZUQ==",
+  "success": true,
+  "projectFilePath": "C:\\Github\\RockPaperAndScissorsGameByGrigorMarinov\\RockPaperAndScissorsGame\\RockPaperAndScissorsGame\\RockPaperAndScissorsGame.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\grigo\\.nuget\\packages\\microsoft.netcore.platforms\\3.1.0\\microsoft.netcore.platforms.3.1.0.nupkg.sha512",
+    "C:\\Users\\grigo\\.nuget\\packages\\microsoft.win32.systemevents\\7.0.0\\microsoft.win32.systemevents.7.0.0.nupkg.sha512",
+    "C:\\Users\\grigo\\.nuget\\packages\\system.drawing.common\\7.0.0\\system.drawing.common.7.0.0.nupkg.sha512",
+    "C:\\Users\\grigo\\.nuget\\packages\\system.runtime.windowsruntime\\4.7.0\\system.runtime.windowsruntime.4.7.0.nupkg.sha512",
+    "C:\\Users\\grigo\\.nuget\\packages\\system.windows.extensions\\7.0.0\\system.windows.extensions.7.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
